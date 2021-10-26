@@ -1,0 +1,13 @@
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/strategy/MyUsernameActivationStrategy.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/FeatureManagerService.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/strategy/MyServerNameActivationStrategy.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/strategy/MyClientIpActivationStrategy.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/strategy/MyGradualActivationStrategy.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/strategy/MyServerIpActivationStrategy.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/strategy/MyCustomActivationStrategy.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/strategy/MySystemPropertyActivationStrategy.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/TogglzResource.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/config/MyTogglzConfig.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/config/MyFeatureManager.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/config/MyFeatures.java
+/home/camila/Repo/playgroundquarkus/src/main/java/com/reichow/togglz/strategy/MyReleaseDateActivationStrategy.java
