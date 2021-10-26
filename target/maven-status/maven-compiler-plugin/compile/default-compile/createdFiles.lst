@@ -1,6 +1,0 @@
-com/reichow/togglz/strategy/MySystemPropertyActivationStrategy.class
-com/reichow/togglz/config/MyFeatureManager.class
-com/reichow/togglz/config/MyTogglzConfig.class
-com/reichow/togglz/strategy/MyCustomActivationStrategy.class
-com/reichow/togglz/config/MyFeatures.class
-com/reichow/togglz/FeatureManagerService.class
